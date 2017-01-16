@@ -1,9 +1,3 @@
-body {
-  border: 1px solid #000;
-}
-body .container {
-  border: 1px solid #000;
-}
 .selectstyle {
   position: relative;
   border: 1px solid #ccc;
@@ -31,4 +25,11 @@ body .container {
   white-space: nowrap;
   overflow: hidden;
   padding-right: 24px;
+}
+body {
+  border: 1px solid #000;
+}
+body .container {
+  border: 1px solid #000;
+  text-align: center;
 }
