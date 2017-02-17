@@ -1,1 +1,1 @@
-(function(){var f;alert("fsff"),f=[1,2,3,4]}).call(this);
+(function(){var f;alert("fsff"),f=[1,2,3,4],console.log(fdsf,fsdfsf)}).call(this);
