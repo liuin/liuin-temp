@@ -1,1 +1,1 @@
-(function(){var f;alert("fsff"),f=[1,2,3,4],console.log(fdsf,fsdfsf)}).call(this);
+function printLabel(e){console.log(e.label)}var myObj={size:10,label:"Size 10 Object"};printLabel(myObj);

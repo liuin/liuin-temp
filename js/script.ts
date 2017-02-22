@@ -1,5 +1,10 @@
-alert('ffsf');
+interface LabelledValue {
+    label: string;
+}
 
-console.log('fsdff');
-console.log('fsdff');
+function printLabel(labelledObj: LabelledValue) {
+    console.log(labelledObj.label);
+}
 
+let myObj = {size: 10, label: "Size 10 Object"};
+printLabel(myObj);
